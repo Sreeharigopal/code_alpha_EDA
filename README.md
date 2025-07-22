@@ -66,8 +66,7 @@ The HR Attrition Dataset contains data on various employee attributes such as de
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hr-attrition-eda.git
-   cd hr-attrition-eda
+   git clone https://github.com/Sreeharigopal/code_alpha_EDA.git
 
 
 
